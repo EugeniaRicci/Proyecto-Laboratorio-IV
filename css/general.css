@@ -1,0 +1,19 @@
+<style>
+body{
+    background-color: #009688;
+}
+.card{
+	margin-top: 50px; 
+}
+
+.txtSize{
+	 width: 350px;
+}
+
+.btn-primary{
+background: green;
+border-color: green;
+}
+
+</style>
+

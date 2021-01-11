@@ -1,0 +1,14 @@
+<style>
+      #imgini 
+      {
+        width: 50%;
+        border-radius: 100px;
+
+      }
+      .alert-success{
+        border-radius: 10px;
+      }
+      body{
+        background-color: #009688;
+      }
+</style>
